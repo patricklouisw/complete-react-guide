@@ -1,0 +1,11 @@
+.err_short {
+    color: red;
+}
+
+.no_err{
+    color: green;
+}
+
+.err_long {
+    color: purple;
+}

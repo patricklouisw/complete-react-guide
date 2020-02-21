@@ -1,0 +1,8 @@
+.char{
+    display: inline-block; 
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center; 
+    margin: 1px;
+    border: 1px solid black
+}
